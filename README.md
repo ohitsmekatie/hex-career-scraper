@@ -6,3 +6,5 @@ This project uses:
 - 🐍 Python for coding everything
 - 🥫 Beautiful Soup for scraping
 - Hex for basic layout and visualization
+
+If there are other companies that i'm interested in i'll probably make this more extensible but for now it's just a hardcoded URL. :) 
