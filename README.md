@@ -5,7 +5,7 @@ I created this very teeny Python script that looks at Hex's career page and gets
 **This project uses:**
 - 🐍 Python for coding everything
 - 🥫 Beautiful Soup for scraping
-- Hex for basic layout and visualization
+- 🧙‍♀️ Hex for basic layout and visualization and Hex Magic for stripping and cleaning the data because it was much easier to prompt than write 
 
 <img width="1687" alt="Screenshot 2023-08-29 at 10 26 07 AM" src="https://github.com/ohitsmekatie/hex-career-scraper/assets/9855295/1769afb7-f279-4fac-bcdc-178570b4e9f5">
 
