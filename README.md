@@ -1,6 +1,6 @@
 # 🐍 Hex.tech career page scraper
 
-I created this very teeny Python script that looks at Hex's career page and gets the list of their current job openings. I then created [a Hex notebook](https://app.hex.tech/katiesipos/app/ae4fd01b-b660-467b-be74-f782a68fded5/latest) that set to my email every Monday so I could proactively see if they had any new listings that I might be interested in. 
+I created this very teeny Python script that looks at Hex's career page and gets the list of their current job openings. I then created [a Hex notebook](https://app.hex.tech/katiesipos/app/ae4fd01b-b660-467b-be74-f782a68fded5/latest) that is sent to my email every Monday so I could proactively see if they had any new listings that I might be interested in. 
 
 **This project uses:**
 - 🐍 Python for coding everything
